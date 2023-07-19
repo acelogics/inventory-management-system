@@ -6,6 +6,11 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+
+//Name: Patrick Acheampong
+//ID: 10920113
+
+
 public class Main extends Application {
 
 
